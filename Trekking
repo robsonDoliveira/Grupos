@@ -9,9 +9,10 @@
   },
   {
   "idGrupo": 2,
-  "NomeGrupo": "Grupo Teste 2",
-  "Proprietario": "Ciclano Silva",
-  "DescricaoGrupo": "TESTE teste teste sdfsdfasd asdfasdfas dasdfasdfa asdfasdfasd asdfsadfad asdfasdf ",
-  "ImagemGrupo": "https://www.instagram.com"
+  "NomeGrupo": "Nome do grupo",
+  "Proprietario": "Caminhadas Urbanas",
+  "DescricaoGrupo": "xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx",
+  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
+  "LinkGrupo": "https://www.terra.com.br"
   }
 ]
