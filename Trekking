@@ -2,13 +2,15 @@
  {
   "idGrupo": 1,
   "NomeGrupo": "Nome do grupo",
-  "DescricaoGrupo": "Descrição do grupo",
-  "ImagemGrupo": "Url da Imagem"
+  "Proprietario": "Fulano Teste",
+  "DescricaoGrupo": "Descrição do grup Descrição do grupo Descrição do grupo Descrição do grupo Descrição do grupo Descrição do grupoo",
+  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png"
   },
   {
   "idGrupo": 2,
-  "NomeGrupo": "Nome do grupo",
-  "DescricaoGrupo": "Descrição do grupo",
-  "ImagemGrupo": "Url da Imagem"
+  "NomeGrupo": "Grupo Teste 2",
+  "Proprietario": "Ciclano Silva",
+  "DescricaoGrupo": "TESTE teste teste sdfsdfasd asdfasdfas dasdfasdfa asdfasdfasd asdfsadfad asdfasdf ",
+  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png"
   }
 ]
