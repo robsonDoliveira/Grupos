@@ -1,0 +1,14 @@
+[
+ {
+  "idGrupo": 1,
+  "NomeGrupo": "Nome do grupo",
+  "DescricaoGrupo": "Descrição do grupo",
+  "ImagemGrupo": "Url da Imagem"
+  },
+  {
+  "idGrupo": 2,
+  "NomeGrupo": "Nome do grupo",
+  "DescricaoGrupo": "Descrição do grupo",
+  "ImagemGrupo": "Url da Imagem"
+  }
+]
