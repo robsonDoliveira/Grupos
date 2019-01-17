@@ -2,6 +2,7 @@
  {
   "idGrupo": 1,
   "NomeGrupo": "Nome do grupo",
+  "UF": "MG",
   "Proprietario": "João da Silva",
   "DescricaoGrupo": "Aqui vai ficar uma breve descrição deste grupo, ao clicar vai abrir uma página ou entrar em grupo de Whatsapp.",
   "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
@@ -11,6 +12,7 @@
   "idGrupo": 2,
   "NomeGrupo": "Grupo de trilha",
   "Proprietario": "Nome do proprietário",
+  "UF": "RJ",
   "DescricaoGrupo": "xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx",
   "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
   "LinkGrupo": "https://www.terra.com.br"
@@ -19,6 +21,7 @@
   "idGrupo": 3,
   "NomeGrupo": "Grupo de teste",
   "Proprietario": "Caminhadas trekking",
+  "UF": "SP",
   "DescricaoGrupo": "xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxx",
   "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
   "LinkGrupo": "https://www.terra.com.br"
