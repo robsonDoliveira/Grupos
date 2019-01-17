@@ -1,29 +1,29 @@
 [
  {
   "idGrupo": 1,
-  "NomeGrupo": "Nome do grupo",
+  "NomeGrupo": "Chico trekking",
+  "Proprietario": "Francisco de Assis Cardoso",
   "UF": "MG",
-  "Proprietario": "João da Silva",
-  "DescricaoGrupo": "Aqui vai ficar uma breve descrição deste grupo, ao clicar vai abrir uma página ou entrar em grupo de Whatsapp.",
-  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
-  "LinkGrupo": "https://www.bol.uol.com.br"
+  "DescricaoGrupo": "Blog voltado para a descrição de Relatos de Aventuras, este Blog tem por objetivo principal despertar no leitor o interesse e o desejo em conhecer e a praticar o Montanhismo.",
+  "ImagemGrupo": "https://i.ibb.co/hCXXpL8/Chico-Trekking.png",
+  "LinkGrupo": "https://www.chicotrekking.com.br"
   },
   {
   "idGrupo": 2,
-  "NomeGrupo": "Grupo de trilha",
-  "Proprietario": "Nome do proprietário",
-  "UF": "RJ",
-  "DescricaoGrupo": "xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxxxxxxx",
-  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
-  "LinkGrupo": "https://www.terra.com.br"
+  "NomeGrupo": "Trilhando! (Trekking e Natureza)",
+  "Proprietario": "@Trilhando_Trekking",
+  "UF": "MG",
+  "DescricaoGrupo": "Travessias e Bate-volta",
+  "ImagemGrupo": "https://i.ibb.co/hZhqHbJ/Logo-Trilhando.png",
+  "LinkGrupo": "https://www.instagram.com/trilhando_trekking"
   },
    {
   "idGrupo": 3,
-  "NomeGrupo": "Grupo de teste",
-  "Proprietario": "Caminhadas trekking",
-  "UF": "SP",
-  "DescricaoGrupo": "xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxx",
-  "ImagemGrupo": "https://i.ibb.co/C1yrsBY/teste.png",
-  "LinkGrupo": "https://www.terra.com.br"
+  "NomeGrupo": "Trilheiras MG",
+  "Proprietario": "Renata e Swellen",
+  "UF": "MG",
+  "DescricaoGrupo": "Página destinada a compartilhar, trilhas, dicas, roteiros, por mulheres em Minas Gerais.",
+  "ImagemGrupo": "https://i.ibb.co/2vKyFRz/logo-trilheira-mg-180x180.png",
+  "LinkGrupo": "https://www.instagram.com/trilheirasmg"
   }
 ]
