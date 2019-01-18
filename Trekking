@@ -17,8 +17,17 @@
   "ImagemGrupo": "https://i.ibb.co/hCXXpL8/Chico-Trekking.png",
   "LinkGrupo": "https://www.chicotrekking.com.br"
   },
-  {
+   {
   "idGrupo": 3,
+  "NomeGrupo": "Exploradores",
+  "Proprietario": "Rodrigo Hortenciano",
+  "UF": "SP",
+  "DescricaoGrupo": "Grupo de amigos que se reúnem para fazer trilhas, travessias e outras atividades divertidas, com um blog que ajuda a informar quem quer fazer os percursos e não sabe por onde começar.",
+  "ImagemGrupo": "https://i.ibb.co/CQVntw1/EX.png",
+  "LinkGrupo": "http://www.exploradores.com.br"
+  },
+  {
+  "idGrupo": 4,
   "NomeGrupo": "Habitantes do Mato",
   "Proprietario": "Victor e Karine",
   "UF": "MG",
@@ -27,7 +36,7 @@
   "LinkGrupo": "https://www.instagram.com/habitantesdomato"
   },
   {
-  "idGrupo": 4,
+  "idGrupo": 5,
   "NomeGrupo": "Trilhando! (Trekking e Natureza)",
   "Proprietario": "@Trilhando_Trekking",
   "UF": "MG",
@@ -36,7 +45,7 @@
   "LinkGrupo": "https://www.instagram.com/trilhando_trekking"
   },
    {
-  "idGrupo": 5,
+  "idGrupo": 6,
   "NomeGrupo": "Trilheiras MG",
   "Proprietario": "Renata e Swellen",
   "UF": "MG",
@@ -45,7 +54,7 @@
   "LinkGrupo": "https://www.instagram.com/trilheirasmg"
   },
    {
-  "idGrupo": 6,
+  "idGrupo": 7,
   "NomeGrupo": "Vertec - Entretenimento",
   "Proprietario": "Lirio Morais",
   "UF": "MG",
@@ -54,7 +63,7 @@
   "LinkGrupo": "https://www.instagram.com/vertec_entretenimento"
   },
    {
-  "idGrupo": 7,
+  "idGrupo": 8,
   "NomeGrupo": "Viagens e passeios em Minas",
   "Proprietario": "Wanderley Santos Vieira",
   "UF": "MG",
