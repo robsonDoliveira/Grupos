@@ -1,6 +1,15 @@
 [
- {
+{
   "idGrupo": 1,
+  "NomeGrupo": "Atoxanos Trilhas e Aventuras",
+  "Proprietario": "Samir",
+  "UF": "RJ",
+  "DescricaoGrupo": "Um grupo cheio de alto astral formado por amantes das natureza. Realizamos trilhas, acampamentos, viagens e passeios.  Seja bem vindo ao nosso mundo. Siga nosso lema : Viver, essa é a senha!",
+  "ImagemGrupo": "https://i.ibb.co/b3sT7x0/AT.png",
+  "LinkGrupo": "https://www.instagram.com/atoxanostrilhaseaventuras"
+  },
+ {
+  "idGrupo": 2,
   "NomeGrupo": "Chico trekking",
   "Proprietario": "Francisco de Assis Cardoso",
   "UF": "MG",
@@ -9,7 +18,16 @@
   "LinkGrupo": "https://www.chicotrekking.com.br"
   },
   {
-  "idGrupo": 2,
+  "idGrupo": 3,
+  "NomeGrupo": "Habitantes do Mato",
+  "Proprietario": "Victor e Karine",
+  "UF": "MG",
+  "DescricaoGrupo": "Trilhas e Aventuras",
+  "ImagemGrupo": "https://i.ibb.co/6y2Fggm/HM.png",
+  "LinkGrupo": "https://www.instagram.com/habitantesdomato"
+  },
+  {
+  "idGrupo": 4,
   "NomeGrupo": "Trilhando! (Trekking e Natureza)",
   "Proprietario": "@Trilhando_Trekking",
   "UF": "MG",
@@ -18,12 +36,30 @@
   "LinkGrupo": "https://www.instagram.com/trilhando_trekking"
   },
    {
-  "idGrupo": 3,
+  "idGrupo": 5,
   "NomeGrupo": "Trilheiras MG",
   "Proprietario": "Renata e Swellen",
   "UF": "MG",
   "DescricaoGrupo": "Página destinada a compartilhar, trilhas, dicas, roteiros, por mulheres em Minas Gerais.",
   "ImagemGrupo": "https://i.ibb.co/2vKyFRz/logo-trilheira-mg-180x180.png",
   "LinkGrupo": "https://www.instagram.com/trilheirasmg"
+  },
+   {
+  "idGrupo": 6,
+  "NomeGrupo": "Vertec - Entretenimento",
+  "Proprietario": "Lirio Morais",
+  "UF": "MG",
+  "DescricaoGrupo": "VERTEC - Soluções Técnicas Verticais, foi criada com intuito de oferecer cursos, treinamentos, auditorias, limpeza e manutenção predial e consultoria técnica no segmento de segurança do trabalho, no entanto, expandiu-se para atividades de entretenimento.",
+  "ImagemGrupo": "https://i.ibb.co/SddNpnw/vertec.png",
+  "LinkGrupo": "https://www.instagram.com/vertec_entretenimento"
+  },
+   {
+  "idGrupo": 7,
+  "NomeGrupo": "Viagens e passeios em Minas",
+  "Proprietario": "Wanderley Santos Vieira",
+  "UF": "MG",
+  "DescricaoGrupo": "Perfil Exclusivo para divulgação de paisagens, lugares para se conhecer, os melhores roteiros para passear saindo de Belo Horizonte e qualquer outra cidade. Minas Gerais é do Brasil! Venha conhecer diversos lugares desse Mundo!",
+  "ImagemGrupo": "https://i.ibb.co/34RwqDC/Sem-t-tulo-1-4-1.png",
+  "LinkGrupo": "https://www.instagram.com/vpminasgerais"
   }
 ]
