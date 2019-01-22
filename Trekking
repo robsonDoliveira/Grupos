@@ -35,8 +35,17 @@
   "ImagemGrupo": "https://i.ibb.co/6y2Fggm/HM.png",
   "LinkGrupo": "https://www.instagram.com/habitantesdomato"
   },
-  {
+   {
   "idGrupo": 5,
+  "NomeGrupo": "Terra Trekking",
+  "Proprietario": "Marco Santos",
+  "UF": "MG",
+  "DescricaoGrupo": "Agência mineira de turismo de aventura, especializada em Caminhadas de Longo Curso e atividades outdoor. Porque o asfalto já ocupou espaço demais. Terra Trekking - reencontre a sua natureza.",
+  "ImagemGrupo": "https://i.ibb.co/82vhLBq/tt.jpg",
+  "LinkGrupo": "https://www.terratrekking.com.br"
+  },
+  {
+  "idGrupo": 6,
   "NomeGrupo": "Trilhando! (Trekking e Natureza)",
   "Proprietario": "@Trilhando_Trekking",
   "UF": "MG",
@@ -45,7 +54,7 @@
   "LinkGrupo": "https://www.instagram.com/trilhando_trekking"
   },
    {
-  "idGrupo": 6,
+  "idGrupo": 7,
   "NomeGrupo": "Trilheiras MG",
   "Proprietario": "Renata e Swellen",
   "UF": "MG",
@@ -54,7 +63,7 @@
   "LinkGrupo": "https://www.instagram.com/trilheirasmg"
   },
    {
-  "idGrupo": 7,
+  "idGrupo": 8,
   "NomeGrupo": "Vertec - Entretenimento",
   "Proprietario": "Lirio Morais",
   "UF": "MG",
@@ -63,7 +72,7 @@
   "LinkGrupo": "https://www.instagram.com/vertec_entretenimento"
   },
    {
-  "idGrupo": 8,
+  "idGrupo": 9,
   "NomeGrupo": "Viagens e passeios em Minas",
   "Proprietario": "Wanderley Santos Vieira",
   "UF": "MG",
