@@ -8,8 +8,17 @@
   "ImagemGrupo": "https://i.ibb.co/b3sT7x0/AT.png",
   "LinkGrupo": "https://www.instagram.com/atoxanostrilhaseaventuras"
   },
- {
+   {
   "idGrupo": 2,
+  "NomeGrupo": "Boralá Trilhas e Aventuras",
+  "Proprietario": "Carol Machado",
+  "UF": "MG",
+  "DescricaoGrupo": "Gosta de contato com a natureza? Trekking, hiking, camping, outras atividades outdoor, aventuras, boas amizades e muitas risadas... tudo isso você vai encontrar por aqui, além de dicas e relatos de experiências. Boralá, deixar a vida andar...",
+  "ImagemGrupo": "https://i.ibb.co/17sjrwT/bora.png",
+  "LinkGrupo": "https://linktr.ee/boralatrilhaseaventuras"
+  },
+ {
+  "idGrupo": 3,
   "NomeGrupo": "Chico Trekking",
   "Proprietario": "Francisco de Assis Cardoso",
   "UF": "MG",
@@ -18,7 +27,16 @@
   "LinkGrupo": "https://www.chicotrekking.com.br"
   },
    {
-  "idGrupo": 3,
+  "idGrupo": 4,
+  "NomeGrupo": "Ecopix Trekking & Hiking",
+  "Proprietario": "Roger Pixixo",
+  "UF": "MG",
+  "DescricaoGrupo": "Empresa destinada à oferecer Atividades de Trekking e Hiking oferecendo os mais diversos níveis de dificuldade, vivência e experiências Outdoor promovendo a interação entre os participantes focando na construção de laços de Amizade e Companherismo.",
+  "ImagemGrupo": "https://i.ibb.co/x3sDM35/pix.png",
+  "LinkGrupo": "https://www.facebook.com/ecopixtrekking"
+  },
+   {
+  "idGrupo": 5,
   "NomeGrupo": "Exploradores",
   "Proprietario": "Rodrigo Hortenciano",
   "UF": "SP",
@@ -27,7 +45,7 @@
   "LinkGrupo": "http://www.exploradores.com.br"
   },
   {
-  "idGrupo": 4,
+  "idGrupo": 6,
   "NomeGrupo": "Habitantes do Mato",
   "Proprietario": "Victor e Karine",
   "UF": "MG",
@@ -36,7 +54,7 @@
   "LinkGrupo": "https://www.instagram.com/habitantesdomato"
   },
    {
-  "idGrupo": 5,
+  "idGrupo": 7,
   "NomeGrupo": "Terra Trekking",
   "Proprietario": "Marco Santos",
   "UF": "MG",
@@ -45,7 +63,7 @@
   "LinkGrupo": "https://www.terratrekking.com.br"
   },
   {
-  "idGrupo": 6,
+  "idGrupo": 8,
   "NomeGrupo": "Trilhando! (Trekking e Natureza)",
   "Proprietario": "@Trilhando_Trekking",
   "UF": "MG",
@@ -54,7 +72,7 @@
   "LinkGrupo": "https://www.instagram.com/trilhando_trekking"
   },
    {
-  "idGrupo": 7,
+  "idGrupo": 9,
   "NomeGrupo": "Trilheiras MG",
   "Proprietario": "Renata e Swellen",
   "UF": "MG",
@@ -63,7 +81,7 @@
   "LinkGrupo": "https://www.instagram.com/trilheirasmg"
   },
    {
-  "idGrupo": 8,
+  "idGrupo": 10,
   "NomeGrupo": "Vertec - Entretenimento",
   "Proprietario": "Lirio Morais",
   "UF": "MG",
@@ -72,7 +90,7 @@
   "LinkGrupo": "https://www.instagram.com/vertec_entretenimento"
   },
    {
-  "idGrupo": 9,
+  "idGrupo": 11,
   "NomeGrupo": "Viagens e passeios em Minas",
   "Proprietario": "Wanderley Santos Vieira",
   "UF": "MG",
