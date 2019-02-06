@@ -97,5 +97,14 @@
   "DescricaoGrupo": "Perfil Exclusivo para divulgação de paisagens, lugares para se conhecer, os melhores roteiros para passear saindo de Belo Horizonte e qualquer outra cidade. Minas Gerais é do Brasil! Venha conhecer diversos lugares desse Mundo!",
   "ImagemGrupo": "https://i.ibb.co/34RwqDC/Sem-t-tulo-1-4-1.png",
   "LinkGrupo": "https://www.instagram.com/vpminasgerais"
+  },
+     {
+  "idGrupo": 12,
+  "NomeGrupo": "Entre Trilhas e Aventuras",
+  "Proprietario": "Reinaldo Figueiredo e Priscilla Suelen de Faria",
+  "UF": "MG",
+  "DescricaoGrupo": "Site com textos e vídeos sobre aventura e natureza. Dicas de segurança, técnicas de sobrevivência, flora, fauna e tudo mais ligado ao universo do trekking, camping e atividades no mato.",
+  "ImagemGrupo": "https://i.ibb.co/wCXScj1/42cbe6e5-1e37-43ba-b0c9-613c82f8a1a5.jpg",
+  "LinkGrupo": "www.entretrilhaseaventuras.com"
   }
 ]
